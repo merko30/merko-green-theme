@@ -1,3 +1,3 @@
-# README
+#Examples
 
-will be there
+![whole screen][./img/s.png]
