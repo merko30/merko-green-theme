@@ -1,3 +1,3 @@
 #Examples
 
-![whole screen][./img/s.png]
+![whole screen](./img/s.png)
