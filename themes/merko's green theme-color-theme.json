@@ -21,7 +21,8 @@
     "panel.border": "#1d291f",
     "statusBar.background": "#a7d129",
     "statusBar.foreground": "#1d291f",
-    "editorGroupHeader.tabsBackground": "#0a0f0b"
+    "editorGroupHeader.tabsBackground": "#0a0f0b",
+    "list.activeSelectionBackground": "#3e5202"
   },
   "tokenColors": [
     {
@@ -246,7 +247,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#c6ff6b"
       }
     },
     {
@@ -306,7 +307,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#C3E88D"
       }
     },
     {
@@ -316,7 +317,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#bcc9aa"
       }
     },
     {

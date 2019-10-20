@@ -5,6 +5,10 @@
   "description": "simple green theme",
   "version": "0.0.1",
   "icon": "img/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/merko30/merko-green-theme"
+  },
   "engines": {
     "vscode": "^1.39.0"
   },
