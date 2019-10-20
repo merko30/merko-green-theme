@@ -1,0 +1,23 @@
+{
+  "name": "merko-green-theme",
+  "publisher": "merko",
+  "displayName": "merko-green-theme",
+  "description": "simple green theme",
+  "version": "0.0.1",
+  "icon": "img/logo.png",
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "merko's green theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/merko's green theme-color-theme.json"
+      }
+    ]
+  }
+}
