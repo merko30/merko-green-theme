@@ -1,8 +1,8 @@
 {
   "name": "merko-green-theme",
   "publisher": "merko",
-  "displayName": "merko-green-theme",
-  "description": "simple green theme",
+  "displayName": "merko's green theme",
+  "description": "VSCode simple green theme",
   "version": "0.4.0",
   "icon": "img/logo.png",
   "repository": {

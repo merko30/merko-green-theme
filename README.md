@@ -1,3 +1,3 @@
-#Examples
+# Example
 
-![whole screen](./img/s.png)
+![theme screenshot](./img/s.png)
